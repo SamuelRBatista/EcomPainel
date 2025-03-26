@@ -1,6 +1,14 @@
 # Arquivos do sistema
 bin/
 obj/
+
+
+# Ignore arquivos de depuração (.pdb)
+*.pdb
+
+# Ignore arquivos compilados (.dll)
+*.dll
+
 .vscode/
 .idea/
 *.user
