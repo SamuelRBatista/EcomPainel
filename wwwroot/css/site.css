@@ -1,31 +1,206 @@
-html {
-  font-size: 14px;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
+/* Root */
+:root {
+  --primary-color: #265551;
+  --secondary-color: #6a9a95;
+  --accent-color: #3d6c68;
+  --text-color: #ffffff;
+  --background-color: #81b1ac;
+}
+
+
+body {
+  display: flex;
+}
+
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background: var(--primary-color);
+  color: var(--text-color);
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  transition: 0.3s;
+
+}
+
+.sidebar h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+
+.sidebar ul li {
+  margin:10px 0 0 0;
+  padding: 10px;
+  text-decoration: none;
+
+}
+
+.sidebar ul li a {
+  color: var(--text-color); 
+  display: block;
+  text-decoration: none;
+}
+
+.content {
+  margin-left: 250px;
+  padding: 20px;
+  width: 100%;
+}
+
+.toggle-btn {
+  font-size: 20px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 10px;
+}
+
+
+
+@media (max-width: 768px) {
+  .sidebar {
+      width: 200px;
+      left: -200px;
+  }
+  .content {
+      margin-left: 0;
   }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+
+
+/* Tabela */
+
+/* Botão para Criar Novo Produto */
+.btnCadProd {
+  margin: 0 0 0 58rem;
+  padding: 20px;
+  background: var(--primary-color);
+  color: var(--text-color);
+  text-decoration: none;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+.btnCadProd:hover {
+  background-color: #45a049;
 }
 
-body {
-  margin-bottom: 60px;
+/* Estilo da tabela */
+.product-table {
+  width: 90%;
+  margin: 46px 0 auto;
+  border-collapse: collapse;
+  background-color: var(--secondary-color);
+ 
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
-  color: var(--bs-secondary-color);
-  text-align: end;
+.product-table th, .product-table td {
+  padding: 15px;
+  text-align: left;
+  border-bottom: 1px solid var(--text-color);
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
-  text-align: start;
+.product-table th {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+.product-table td {
+  background-color: var(--background-color);
+}
+
+.product-table tr:hover {
+  background-color: var(--text-color);
+}
+
+/* Estilos dos botões Editar e Excluir */
+.edit-btn, .delete-btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 14px;
+  margin-right: 10px; /* Espaçamento entre os botões */
+  display: inline-block; /* Garante que os botões fiquem lado a lado */
+}
+
+.edit-btn {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.edit-btn:hover {
+  background-color: var(--text-color);
+}
+
+.delete-btn {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.delete-btn:hover {
+  background-color: var(--text-color);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .product-table {
+      width: 100%;
+      font-size: 14px;
+  }
+
+  .product-table th, .product-table td {
+      padding: 10px;
+  }
+
+  .product-table {
+    width: 90%;
+    margin: 46px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+
+  .btnCadProd {
+      margin: 6px 0 0 12rem;
+      padding: 20px;
+      background: var(--primary-color);
+      color: var(--text-color);
+      text-decoration: none;
+  }
+
+  .edit-btn, .delete-btn {
+      padding: 6px 12px;
+      font-size: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .create-btn {
+      width: 160px;
+  }
+
+  .product-table th, .product-table td {
+      font-size: 12px;
+  }
+
+  .edit-btn, .delete-btn {
+      padding: 5px 10px;
+      font-size: 10px;
+  }
 }

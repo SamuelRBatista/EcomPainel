@@ -1,4 +1,6 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿function toggleSidebar() {
+    const sidebar = document.querySelector('.sidebar');
+    sidebar.style.left = sidebar.style.left === '0px' ? '-300px' : '0px';
+}
 
-// Write your JavaScript code.
+

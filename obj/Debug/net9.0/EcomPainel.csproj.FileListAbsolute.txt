@@ -17,9 +17,7 @@ C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\EcomPaine
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\scopedcss\bundle\EcomPainel.styles.css
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\scopedcss\projectbundle\EcomPainel.bundle.scp.css
-C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\vx787398ei-b9sayid5wm.gz
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\k5ac5eq9pc-61n19gt1b8.gz
-C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\4bjovok0os-xtxxf3hu2r.gz
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\gf5024evcq-bqjiyaj88i.gz
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\yflze8eqgx-c2jlpeoesf.gz
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\y9wubmmsns-erw9l3u2r3.gz
@@ -95,3 +93,6 @@ C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\refint\Ec
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\EcomPainel.pdb
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\EcomPainel.genruntimeconfig.cache
 C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\ref\EcomPainel.dll
+C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\EcomPainel.sourcelink.json
+C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\vx787398ei-wtrh8l3lbm.gz
+C:\Users\samuk\OneDrive\Desktop\EcomPainel\EcomPainel\obj\Debug\net9.0\compressed\4bjovok0os-nt25h4a3er.gz

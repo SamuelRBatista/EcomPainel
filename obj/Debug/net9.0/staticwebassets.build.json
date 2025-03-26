@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "150ZAn9KPP/DRK3EB+I5KvXhj5BOZq8CKTKvPAp6+50=",
+  "Hash": "+HeUr+69vvmu52B0288/bDVfDLrgvSaH59o6nn8dRR8=",
   "Source": "EcomPainel",
   "BasePath": "_content/EcomPainel",
   "Mode": "Default",
@@ -101,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-xtxxf3hu2r.gz",
+      "Identity": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-nt25h4a3er.gz",
       "SourceId": "EcomPainel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcomPainel",
-      "RelativePath": "js/site#[.{fingerprint=xtxxf3hu2r}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=nt25h4a3er}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -115,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "rl5dcbfpcw",
-      "Integrity": "Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=",
+      "Fingerprint": "1w4x5d4siy",
+      "Integrity": "/68I3fCFwZKWROdPaYMGqaLsEUs4hic93xHttIFOLGI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\js\\site.js"
@@ -1109,12 +1109,12 @@
       "OriginalItemSpec": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-wtrh8l3lbm.gz",
       "SourceId": "EcomPainel",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/EcomPainel",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=wtrh8l3lbm}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1123,8 +1123,8 @@
       "RelatedAsset": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "il37c4r73e",
+      "Integrity": "9pkI7UDl2Qs4jDj2dGVmXlIGMBVkPjARaAmVKt5RAJM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "wtrh8l3lbm",
+      "Integrity": "JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1459,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "nt25h4a3er",
+      "Integrity": "iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-b9sayid5wm.gz",
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-wtrh8l3lbm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.000977517107"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "1022"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"9pkI7UDl2Qs4jDj2dGVmXlIGMBVkPjARaAmVKt5RAJM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:11 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,26 +2772,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.css",
       "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "3440"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2801,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-wtrh8l3lbm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1022"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pkI7UDl2Qs4jDj2dGVmXlIGMBVkPjARaAmVKt5RAJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 12:15:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9pkI7UDl2Qs4jDj2dGVmXlIGMBVkPjARaAmVKt5RAJM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.wtrh8l3lbm.css",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-wtrh8l3lbm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000977517107"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1022"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9pkI7UDl2Qs4jDj2dGVmXlIGMBVkPjARaAmVKt5RAJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 12:15:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wtrh8l3lbm"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.wtrh8l3lbm.css",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Mar 2025 12:15:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "wtrh8l3lbm"
         },
         {
           "Name": "label",
@@ -2831,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-JJO0KW+/QKQ3TljLV2cXh0S/WVkdCki9/GnB2XfbtMQ="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-b9sayid5wm.gz",
+      "Route": "css/site.wtrh8l3lbm.css.gz",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-wtrh8l3lbm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "1022"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"9pkI7UDl2Qs4jDj2dGVmXlIGMBVkPjARaAmVKt5RAJM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "wtrh8l3lbm"
         },
         {
           "Name": "label",
@@ -2884,144 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\vx787398ei-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-9pkI7UDl2Qs4jDj2dGVmXlIGMBVkPjARaAmVKt5RAJM="
         }
       ]
     },
@@ -3921,12 +3921,12 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-xtxxf3hu2r.gz",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-nt25h4a3er.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.006944444444"
         }
       ],
       "ResponseHeaders": [
@@ -3936,15 +3936,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "143"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"/68I3fCFwZKWROdPaYMGqaLsEUs4hic93xHttIFOLGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3964,13 +3964,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac="
         }
       ]
     },
@@ -3985,7 +3985,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "170"
         },
         {
           "Name": "Content-Type",
@@ -3993,11 +3993,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4007,13 +4007,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac="
         }
       ]
     },
     {
       "Route": "js/site.js.gz",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-xtxxf3hu2r.gz",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-nt25h4a3er.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4022,7 +4022,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "143"
         },
         {
           "Name": "Content-Type",
@@ -4030,11 +4030,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"/68I3fCFwZKWROdPaYMGqaLsEUs4hic93xHttIFOLGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4052,18 +4052,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
+          "Value": "sha256-/68I3fCFwZKWROdPaYMGqaLsEUs4hic93xHttIFOLGI="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-xtxxf3hu2r.gz",
+      "Route": "js/site.nt25h4a3er.js",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-nt25h4a3er.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.005263157895"
+          "Quality": "0.006944444444"
         }
       ],
       "ResponseHeaders": [
@@ -4073,15 +4073,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "143"
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"/68I3fCFwZKWROdPaYMGqaLsEUs4hic93xHttIFOLGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4101,13 +4101,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "W/\"iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "nt25h4a3er"
         },
         {
           "Name": "label",
@@ -4115,12 +4115,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.nt25h4a3er.js",
       "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4130,7 +4130,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "170"
         },
         {
           "Name": "Content-Type",
@@ -4138,11 +4138,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4152,7 +4152,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "nt25h4a3er"
         },
         {
           "Name": "label",
@@ -4160,13 +4160,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-iz7tqbbq/OFunJ+nlyvRP60bG7lVQqgkxRGH9LJlqac="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js.gz",
-      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-xtxxf3hu2r.gz",
+      "Route": "js/site.nt25h4a3er.js.gz",
+      "AssetFile": "C:\\Users\\samuk\\OneDrive\\Desktop\\EcomPainel\\EcomPainel\\obj\\Debug\\net9.0\\compressed\\4bjovok0os-nt25h4a3er.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4175,7 +4175,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189"
+          "Value": "143"
         },
         {
           "Name": "Content-Type",
@@ -4183,11 +4183,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA=\""
+          "Value": "\"/68I3fCFwZKWROdPaYMGqaLsEUs4hic93xHttIFOLGI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 26 Mar 2025 12:03:37 GMT"
+          "Value": "Wed, 26 Mar 2025 12:15:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4205,7 +4205,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "nt25h4a3er"
         },
         {
           "Name": "label",
@@ -4213,7 +4213,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
+          "Value": "sha256-/68I3fCFwZKWROdPaYMGqaLsEUs4hic93xHttIFOLGI="
         }
       ]
     },
