@@ -1,0 +1,43 @@
+# Arquivos do sistema
+bin/
+obj/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Dependências e pacotes
+node_modules/
+wwwroot/lib/
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Configurações e logs
+appsettings*.json
+secrets.json
+.env
+logs/
+*.log
+
+# Dados do banco
+*.db
+*.mdf
+*.ldf
+sqlite.db
+sqlite.db-journal
+
+# Diretórios de build
+dist/
+out/
+publish/
+.DS_Store
+Thumbs.db
+
+# Configuração do Rider/JetBrains
+*.sln.iml
+.idea/
