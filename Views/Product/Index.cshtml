@@ -1,0 +1,45 @@
+@model EcomPainel.Models.Product[]
+
+@{
+    ViewData["Title"] = "Produtos";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a href="@Url.Action("Create", "Product")" class="btnCadProd">Create New Product</a>
+
+
+<table class="product-table">
+    <thead>
+        <tr>
+            <th>Nome</th>                             
+            <th>Preço</th>
+            <th>Category</th>
+            <th>Ações</th> 
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>            
+                                   
+                <td>@product.Price</td>
+                <td>
+                    @foreach (var category in ViewBag.Categories)
+                    {
+                        @if (category.Id == product.CategoryId)
+                        {
+                            <span>@category.Name</span>
+                        }
+                    }
+                </td>
+               <td>
+                            <!-- Botões para editar e excluir -->
+                            <a href="@Url.Action("Edit", "Product", new { id = product.Id })" class="btn edit-btn">Editar</a>
+                            <a href="@Url.Action("Delete", "Product", new { id = product.Id })" class="btn delete-btn">Excluir</a>
+                        </td>
+            </tr>
+        }
+    </tbody>
+</table>
